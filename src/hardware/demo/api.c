@@ -29,7 +29,7 @@
 #include "libsigrok-internal.h"
 #include "protocol.h"
 
-#define DEFAULT_NUM_LOGIC_CHANNELS		8
+#define DEFAULT_NUM_LOGIC_CHANNELS		16
 #define DEFAULT_LOGIC_PATTERN			PATTERN_SIGROK
 
 #define DEFAULT_NUM_ANALOG_CHANNELS		5
